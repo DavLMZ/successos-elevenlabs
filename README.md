@@ -55,12 +55,16 @@ Built for the daily operating reality of a Strategic CSM in Western Europe.
 - **Voice briefing** — 30-second daily red-account summary in DE / FR / EN via ElevenLabs TTS
 - **Echo · live agent** — a live WebRTC voice agent that can open accounts, surface renewals, and draft renewal emails
 
+![AI surface in the navigation — dedicated Copilot, Voice briefing, and Echo](./screenshots/02-ai-surface.png)
+
 **Persona switching** — IC · CSM vs Leader views, demonstrating how AI surfaces
 differ by role.
 
 22 modelled accounts across DACH, Switzerland, France, and the Nordics —
 including Telekom, BMW, UBS, Siemens Energy, PostFinance, Carrefour, BPCE,
 Allianz Direkt, AXA Assist, Orange Bank.
+
+![Echo · live voice agent in conversation](./screenshots/04-echo-voice.png)
 
 ---
 
@@ -76,6 +80,8 @@ artifact a senior CSM produces.
 - **Account-level adoption matrix** across ElevenAgents, ElevenCreative, ElevenAPI
 - **Five Claude features used appropriately** — extended thinking for account briefs, streaming for QBR generation, tool use for expansion signal discovery, self-reviewing single-pass generation for adoption playbooks, structured output throughout
 - **Voice Briefing** via the ElevenLabs API
+
+![Risk watchlist with named stakeholders and regulatory blockers](./screenshots/05-vercel-watchlist.png)
 
 ---
 
